@@ -4,10 +4,10 @@ Open-source uptime monitor and status page for ANeePay services, powered by [Upp
 
 ## Monitored Services
 
-| Service | URL |
-| ------- | --- |
+| Service     | URL                     |
+| ----------- | ----------------------- |
 | ANeePay API | https://api.aneepay.com |
-| ANeePay | https://aneepay.com |
+| ANeePay     | https://aneepay.com     |
 
 ## How it works
 
