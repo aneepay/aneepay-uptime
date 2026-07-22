@@ -2,16 +2,16 @@ owner: aneepay
 repo: aneepay-uptime
 
 sites:
-  - name: ANeePay API
+  - name: AneePay API
     url: https://api.aneepay.com
-  - name: ANeePay
+  - name: AneePay
     url: https://aneepay.com
 
 status-website:
   cname: status.aneepay.com
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: ANeePay Status
-  introTitle: "**ANeePay** Status Page"
+  name: AneePay Status
+  introTitle: "**AneePay** Status Page"
   introMessage: Real-time uptime monitoring for ANeePay services, powered by GitHub Actions."
   navbar:
     - title: Status

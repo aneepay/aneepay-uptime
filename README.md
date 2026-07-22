@@ -6,8 +6,8 @@ Open-source uptime monitor and status page for ANeePay services, powered by [Upp
 
 | Service     | URL                     |
 | ----------- | ----------------------- |
-| ANeePay API | https://api.aneepay.com |
-| ANeePay     | https://aneepay.com     |
+| AneePay API | https://api.aneepay.com |
+| AneePay     | https://aneepay.com     |
 
 ## How it works
 
