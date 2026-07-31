@@ -2,10 +2,13 @@ owner: aneepay
 repo: aneepay-uptime
 
 sites:
-  - name: AneePay API
-    url: https://api.aneepay.com
   - name: AneePay
     url: https://aneepay.com
+  - name: AneePay API
+    url: https://api.aneepay.com
+  - name: AneePay Journal
+    url: https://journal.aneepay.com
+
 
 status-website:
   cname: status.aneepay.com
